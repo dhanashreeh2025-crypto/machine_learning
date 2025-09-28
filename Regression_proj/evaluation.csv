@@ -1,0 +1,5 @@
+model_name,model,cv_mean,cv_std,train_r2,test_r2,gen_err
+Ridge,"Ridge(alpha=50, random_state=42)",0.8393,0.0755,0.8521,0.8051,0.047
+Ridge,"Ridge(alpha=50, random_state=42)",0.8393,0.0755,0.8521,0.8051,0.047
+LinearRegression,LinearRegression(),0.8383,0.08,0.8525,0.8019,0.0506
+LinearRegression,LinearRegression(),0.7549,0.1526,0.868,0.7998,0.0682
